@@ -1,13 +1,4 @@
-# Project 3
+# Image sharing board
 
-See the course web page for the project's requirements.
-
-# Submission Instructions
-
-See the respective **submit-_milestone_.md** file for each submission.
-
-| Submission  | Instructions                       |
-| ----------- | ---------------------------------- |
-| Milestone 1 | [submit-m1.md](submit-m1.md)   |
-| Milestone 2 | [submit-m2.md](submit-m2.md)   |
-| Final       | [submit-FINAL.md](submit-FINAL.md) |
+This is a website designed to allow users to upload images, descriptions, and tags for the images.
+Users can also look at other people's images, search images by tag, and delete images.
